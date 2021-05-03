@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{365:function(t,e,n){"use strict";n.r(e);var s={data:function(){return{message:"1111123213"}}},i=n(26),u=Object(i.a)(s,(function(){var t=this.$createElement,e=this._self._c||t;return e("div",[e("button",[this._v(this._s(this.message))])])}),[],!1,null,null,null);e.default=u.exports}}]);
